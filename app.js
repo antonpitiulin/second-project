@@ -24,3 +24,7 @@ function addPreficx(name){
 }
 
 console.log(addPreficx("roma"))
+
+var x = 50
+
+console.log()
